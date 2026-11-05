@@ -24,7 +24,7 @@ Se a mensagem tiver as duas palavras, `pensão` tem prioridade.
 ## Instalação
 
 ```bash
-git clone https://github.com/SEU-USUARIO/pai-404.git
+git clone https://github.com/DaviKirk/pai-404.git
 cd pai-404
 ```
 
